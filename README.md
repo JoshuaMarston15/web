@@ -1,30 +1,4 @@
 
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-            background-color: #000080;
-        }
-        header {
-            background-color: #008080;
-            color: purple;
-            text-align: center;
-            padding: 1rem;
-        }
-        .container {
-            width: 80%;
-            margin: auto;
-            padding: 20px;
-            background: silver;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-        }
-        section {
-            margin-bottom: 20px;
-        }
-        h2 {
-            color: #000080;
-        }
-    </style>
 </head>
 <body>
     <header>
